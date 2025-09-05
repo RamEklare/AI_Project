@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+langchain
+langgraph
+email-validator
+python-dotenv
